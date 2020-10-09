@@ -9,22 +9,22 @@ The distribution index is written in JSON. The general format of the index is as
     "version": "1.0.0",
     "discord": {
         "clientId": "12334567890123456789",
-        "smallImageText": "WesterosCraft",
+        "smallImageText": "Nlox",
         "smallImageKey": "seal-circle"
     },
     "rss": "https://westeroscraft.com/articles/index.rss",
     "servers": [
         {
             "id": "Example_Server",
-            "name": "WesterosCraft Example Client",
-            "description": "Example WesterosCraft server. Connect for fun!",
+            "name": "Nlox",
+            "description": "Nlox . Connecter vous pour du Fun!",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/example_icon.png",
             "version": "0.0.1",
             "address": "mc.westeroscraft.com:1337",
             "minecraftVersion": "1.11.2",
             "discord": {
-                "shortId": "Example",
-                "largeImageText": "WesterosCraft Example Server",
+                "shortId": "Nlox",
+                "largeImageText": "Nlox ",
                 "largeImageKey": "server-example"
             },
             "mainServer": true,
@@ -45,7 +45,7 @@ The distribution index is written in JSON. The general format of the index is as
     "version": "1.0.0",
     "discord": {
         "clientId": "12334567890123456789",
-        "smallImageText": "WesterosCraft",
+        "smallImageText": "Nlox",
         "smallImageKey": "seal-circle"
     },
     "rss": "https://westeroscraft.com/articles/index.rss",
@@ -80,8 +80,8 @@ A URL to a RSS feed. Used for loading news.
 ```JSON
 {
     "id": "Example_Server",
-    "name": "WesterosCraft Example Client",
-    "description": "Example WesterosCraft server. Connect for fun!",
+    "name": "Nlox",
+    "description": "Connectez vous pour du fun!",
     "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/example_icon.png",
     "version": "0.0.1",
     "address": "mc.westeroscraft.com:1337",
@@ -426,7 +426,7 @@ Ex.
 ```json
 {
     "id": "com.westeroscraft:westeroscraftrp:2017-08-16",
-    "name": "WesterosCraft Resource Pack (2017-08-16)",
+    "name": "Nlox Ressource Pack (2017-08-16)",
     "type": "file",
      "artifact": {
         "size": 45241339,

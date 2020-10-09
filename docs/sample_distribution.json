@@ -2,7 +2,7 @@
     "version": "1.0.0",
     "discord": {
         "clientId": "385581240906022916",
-        "smallImageText": "WesterosCraft",
+        "smallImageText": "Nlox Launcher",
         "smallImageKey": "seal-circle"
     },
     "java": {
@@ -20,7 +20,7 @@
             "minecraftVersion": "1.11.2",
             "discord": {
                 "shortId": "Production",
-                "largeImageText": "WesterosCraft Production Server",
+                "largeImageText": "Production de Nlox",
                 "largeImageKey": "server-prod"
             },
             "mainServer": true,
