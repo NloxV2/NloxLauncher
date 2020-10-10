@@ -31,3 +31,6 @@
 * Voir l'état des services de Mojang.
 
 Téléchargé et installer le Launcher
+
+Note : Nlox Launcher n'est pas affilié a Mojang . AB
+Note n°2 : Tout Mot de passe / Email Ne passe pas par Nos Serveur mais par les Serveur de Mojang. AB

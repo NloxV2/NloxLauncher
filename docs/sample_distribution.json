@@ -219,8 +219,8 @@
                     ]
                 },
                 {
-                    "id": "com.westeroscraft:westerosblocks:3.2.0-beta-1-190",
-                    "name": "WesterosBlocks",
+                    "id": "com.nlox.mod.NloxV2Mod",
+                    "name": "NloxV2Block",
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 17376788,
